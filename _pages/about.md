@@ -9,14 +9,16 @@ sidebar_category: false
 ### INTRODUCTION
 
 게임개발자로 시작해서 현재는 웹개발을 하고 있는 프로그래머입니다.<br>
-백엔드(서버) 및 프론트엔드(클라이언트) 모두 개발 경험이 있으며, 개발한 코드가 바로 시각화되어 표현되고 고객과 좀 더 가깝게 소통할 수 있는 프론트엔드 개발에 좀 더 흥미를 가지고 있습니다.<br>
 
 - 가독성 높은 코드를 추구하며, 좋은 품질의 코드를 만들기 위해 매우 노력합니다.
 - 기본이 가장 중요하다고 생각하며, 라이브러리나 프레임워크의 사용법보다 언어의 원리를 알기 위해 공부하고 있습니다.
-- 실력보다 인성이 더 중요하다고 생각합니다. 서로 배려하고, 상대방의 입장에서 생각하며, 항상 긍정적으로 일하고 있습니다.
-- 매일 성장하는 것이 목표입니다. 퇴근 후, 매일 조금씩 개발스터디 및 사이드프로젝트를 진행하고 있습니다.
+- 다양한 개발 경험으로 새로운 언어나 라이브러리 습득이 빠르며, 문제가 생겼을 때 빠르게 해결책을 찾는 역량을 가지고 있습니다.
+- 소통을 좋아하며 좋은 분위기의 팀을 만들기 위해 노력합니다. 항상 긍정적으로 생각하며 스트레스를 받지 않는 성격입니다.
+- 서비스 초기 개발부터 시작해서 런칭, 운영까지 진행한 다수의 프로젝트 경험이 있습니다.
+- 새로운 프로젝트를 제안하고, 리드할 수 있는 역량을 가지고 있습니다.
+- 매일 성장하는 것이 목표입니다. 꾸준히 개발스터디 및 사이드프로젝트를 진행하고 있습니다.
 
-개발 할 때가 제일 재미있고, 제일 잘 할 수 있는 것이 개발이라고 생각합니다. 매일 성장하고, 또 팀에 많은 기여를 할 수 있는 개발자가 되고 싶습니다. 감사합니다.
+개발 할 때가 제일 재미있고, 제일 잘 할 수 있는 것이 개발이라고 생각합니다. 다같이 성장하는 개발자가 되고 싶습니다. 감사합니다.
 
 ---
 
@@ -30,31 +32,39 @@ C++, C#(unity3d), python, django, restframework, html, css(sass), javascript, jq
 
 #### 해줌
 
-- 2017.03 ~ 재직중
+- 2017.03 ~ 재직중 (3년 8개월~)
 - IT사업실, 실장
-- IT사업실 관리 총괄
-- PM/풀스택개발
+  - IT사업실 관리 총괄
 - 공인 스크럼 마스터 자격증(CSM: Certified Scrum Master) 취득
   - https://www.scrumalliance.org/
 - PROJECT
-  - 해줌닷컴
+  - 해줌닷컴 (2017.03 ~)
+    - 해줌의 사업 소개 및 서비스 신청 페이지
     - https://www.haezoom.com
-    - PM, 프로젝트 관리
+    - PM, 풀스택 개발
     - 주요 페이지 퍼블리싱, 프론트엔드, 백엔드 개발
       - html, css(sass), javascript, jquery, python, django
     - 셀레늄을 사용한 e2e 테스트
       - http://story.haezoom.com/?p=1904
-  - 비즈해줌
-    - https://biz.haezoom.com
-    - PM, 프로젝트 관리
-    - 관리페이지 백엔드 개발
-      - python, django, rest framework
-  - 발전량 예측 API
+    - 그로스해킹 진행
+      - Google Analytics A/B 테스트
+  - 발전량 예측 API (2019.03 ~ 2019.12)
+    - 태양광발전소 발전량 예측 데이터를 API로 제공
     - https://api.haezoom.io/
-    - PM, 프로젝트 관리
+    - PM
     - 문서 페이지 개발
       - http://doc.haezoom.io/
       - MkDocs
+  - 비즈해줌 (2020.01 ~ 2020.06)
+    - 태양광 시공사들을 위한 b2b 서비스 플랫폼
+    - https://biz.haezoom.com
+    - PM, 백엔드 개발
+    - 관리페이지 백엔드 개발
+      - python, django, rest framework
+  - 내일의발전 (2020.07 ~)
+    - 태양광 발전소 발전량 모니터링 서비스
+    - https://tomorrow.haezoom.com
+    - PM, 프론트엔드개발
   - 음영을 반영한 벽면태양광 발전량 예측 R&D
     - 파이콘 2018 발표
     - https://archive.pycon.kr/2018/program/6
@@ -63,10 +73,11 @@ C++, C#(unity3d), python, django, restframework, html, css(sass), javascript, jq
 
 #### 씨웨이브소프트
 
-- 2014.10 ~ 2017.2
+- 2014.10 ~ 2017.2 (2년 5개월)
 - 개발팀, 클라이언트 프로그래머
 - PROJECT
   - 하이퍼유니버스
+    - 횡스크롤 AOS, 넥슨 퍼블리싱
     - 클라이언트 개발
       - c#, unity3D
     - 하이퍼(캐릭터) 스킬 개발
@@ -95,15 +106,16 @@ C++, C#(unity3d), python, django, restframework, html, css(sass), javascript, jq
 
 #### 네오위즈게임즈
 
-- 2008.11 ~ 2014.10
+- 2008.11 ~ 2014.10 (6년)
 - FF스튜디오, 프로그래머
 - PROJECT
-  - 피파온라인2
+  - 피파온라인2 (2008.11 ~ 2013.01)
     - 클라이언트, 서버개발
     - c++
     - 원정대, 월드투어, 클럽, 아이템, 이벤트 등 주요 컨텐츠 개발
     - 일본 서비스 배포 및 커뮤니케이션 대응
-  - 마성의 플러스 for kakao
+  - 마성의 플러스 for kakao (2013.02 ~ 2013.12)
+    - 모바일 캐쥬얼 퍼즐 게임
     - 개발팀 관리 및 게임 전체 프로그래밍
     - https://www.youtube.com/watch?v=MzfCud1FsOc
     - 클라이언트 전체 개발
@@ -111,8 +123,8 @@ C++, C#(unity3d), python, django, restframework, html, css(sass), javascript, jq
     - 서버 전체 개발
       - c++
       - php 웹서버 개발로 시작하여, c++ 서버 라이브러리를 개량해서 사용
-  - Total Football Manager
-    - 페이스북에서 서비스하는 축구 시뮬레이션 게임
+  - Total Football Manager (2014.01 ~ 2014.10)
+    - 축구 시뮬레이션 게임, 페이스북 서비스
     - https://ko-kr.facebook.com/playtotalfootball/
     - c#, unity3d
     - 상점, 소셜기능 등 클라이언트 주요 컨텐츠 개발
@@ -122,4 +134,5 @@ C++, C#(unity3d), python, django, restframework, html, css(sass), javascript, jq
 ### EDUCATION
 
 아주대학교 미디어학부
+
 - 게임 프로그래밍, 컴퓨터 그래픽스, 컴퓨터공학
