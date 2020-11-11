@@ -40,6 +40,7 @@ C++, C#, unity3d, python, django, restframework, html, css(sass), javascript, jq
     - 태양광 발전소 발전량 모니터링 서비스
     - https://tomorrow.haezoom.com/
     - PM, 프론트엔드개발
+      - vue.js
   - 비즈해줌 (2020.01 ~ 2020.06)
     - 태양광 시공사들을 위한 b2b 서비스 플랫폼
     - https://biz.haezoom.com/
