@@ -27,7 +27,7 @@ html, css, sass, javascript, vue.js
 - 2017.03 ~ 재직중
 - IT실
 - 공인 스크럼 마스터 자격증(CSM: Certified Scrum Master) 취득 (2019.06)
-  - https://www.scrumalliance.org/
+  - [https://www.scrumalliance.org/](https://www.scrumalliance.org/){:target="\_blank"}
 - PROJECT
   - VPP 솔루션 (2021.01 ~ )
     1. 프로젝트 소개
@@ -40,7 +40,7 @@ html, css, sass, javascript, vue.js
   - 내일의발전 (2020.07 ~ 2020.12)
     1. 프로젝트 소개
     - 태양광 발전소 발전량 모니터링 서비스
-    - https://tomorrow.haezoom.com/
+    - [https://tomorrow.haezoom.com/](https://tomorrow.haezoom.com/){:target="\_blank"}
     2. 주요 역할
     - PM(90%), 프론트엔드 개발(10%)
     - 시장정보페이지 개발
@@ -50,7 +50,7 @@ html, css, sass, javascript, vue.js
   - 비즈해줌 (2020.01 ~ 2020.06)
     1. 프로젝트 소개
     - 태양광 시공사들을 위한 b2b 서비스 플랫폼
-    - https://biz.haezoom.com/
+    - [https://biz.haezoom.com/](https://biz.haezoom.com/){:target="\_blank"}
     2. 주요 역할
     - PM(50%), 백엔드(50%)
     - REST API 개발
@@ -59,23 +59,23 @@ html, css, sass, javascript, vue.js
   - 발전량 예측 API (2019.03 ~ 2019.12)
     1. 프로젝트 소개
     - 태양광발전소 발전량 예측 데이터 API 제공
-    - https://api.haezoom.io/
+    - [https://api.haezoom.io/](https://api.haezoom.io/){:target="\_blank"}
     2. 주요 역할
     - PM
-    - 렌딩 페이지 및 문서 페이지 개발 (http://doc.haezoom.io/)
+    - 렌딩 페이지 ([https://haezoom.io/api/](https://haezoom.io/api/){:target="\_blank"}) 및 문서 페이지 개발 ([http://doc.haezoom.io/](http://doc.haezoom.io/){:target="\_blank"})
     3. 주요 스킬 및 키워드
     - html, css, sass(scss), MkDocs
   - 음영을 반영한 벽면태양광 발전량 예측 R&D (2018.07 ~ 2018.08)
     1. 프로젝트 소개
     - 주변 환경에 의한 태양광발전소 3d 음영 시뮬레이션
     - 파이콘 2018 발표
-    - https://archive.pycon.kr/2018/program/6
+    - [https://archive.pycon.kr/2018/program/6](https://archive.pycon.kr/2018/program/6){:target="\_blank"}
     2. 주요 스킬 및 키워드
     - c#, unity3d, python
   - 해줌닷컴 (2017.03 ~ 2019.03)
     1. 프로젝트 소개
     - 해줌의 서비스 소개 및 신청 페이지
-    - https://www.haezoom.com/
+    - [https://www.haezoom.com/](https://www.haezoom.com/){:target="\_blank"}
     2. 주요 역할
     - PM, 프론트엔드, 백엔드 개발
     - 전체 페이지 리뉴얼
@@ -112,7 +112,7 @@ html, css, sass, javascript, vue.js
   - Total Football Manager (2014.01 ~ 2014.10)
     1. 프로젝트 소개
     - 축구 시뮬레이션 게임
-    - https://ko-kr.facebook.com/playtotalfootball/
+    - [https://ko-kr.facebook.com/playtotalfootball/](https://ko-kr.facebook.com/playtotalfootball/){:target="\_blank"}
     - 페이스북, android, ios 서비스
     2. 주요 역할
     - 상점, 소셜기능 등 주요 컨텐츠 개발
@@ -121,7 +121,7 @@ html, css, sass, javascript, vue.js
   - 마성의 플러스 for kakao (2013.02 ~ 2013.12)
     1. 프로젝트 소개
     - 모바일 캐쥬얼 퍼즐게임
-    - https://www.youtube.com/watch?v=MzfCud1FsOc
+    - [https://www.youtube.com/watch?v=MzfCud1FsOc](https://www.youtube.com/watch?v=MzfCud1FsOc){:target="\_blank"}
     - 카카오톡 게임 오픈 및 해외 서비스 오픈
     2. 주요 역할
     - 팀관리 및 게임 전체 프로그래밍
@@ -147,21 +147,21 @@ html, css, sass, javascript, vue.js
 
 - 숫자야구게임 (2021.06)
   - 랜덤한 3자리의 숫자를 맞추는 퍼즐 게임
-  - https://jhlov.github.io/baseball
+  - [https://jhlov.github.io/baseball](https://jhlov.github.io/baseball){:target="\_blank"}
   - react(연습)
 - 에니어그램 (2021.05)
   - 에니어그램 테스트
-  - https://jhlov.github.io/enneagram/
+  - [https://jhlov.github.io/enneagram/](https://jhlov.github.io/enneagram/){:target="\_blank"}
   - react(연습)
 - 차트 퀴즈 (2021.05)
   - 주식 차트를 분석해 미래의 가격을 예측하는 퀴즈
-  - https://jhlov.github.io/chartquiz/
+  - [https://jhlov.github.io/chartquiz/](https://jhlov.github.io/chartquiz/){:target="\_blank"}
   - react(연습)
 - 플러스팡 (2021.03)
   - 더하기 퍼즐 게임
-  - https://jhlov.github.io/pluspang/
+  - [https://jhlov.github.io/pluspang/](https://jhlov.github.io/pluspang/){:target="\_blank"}
   - react(연습)
 - 심코인 (2020.06)
   - 비트코인 자동매매 시뮬레이션
-  - http://simcoin.co.kr/
+  - [http://simcoin.co.kr/](http://simcoin.co.kr/){:target="\_blank"}
   - python, django, vue.js, AWS Elastic Beanstalk
