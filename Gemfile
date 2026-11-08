@@ -8,5 +8,6 @@ gem "base64"
 gem "bigdecimal"
 gem "mutex_m"
 gem "kramdown-parser-gfm"
+gem "rake", ">= 13.0"
 
 
