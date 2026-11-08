@@ -1,3 +1,28 @@
 <!-- start custom footer snippets -->
+<style>
+  .mermaid {
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem 0;
+  }
+</style>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: false, theme: 'default' });
 
+  window.addEventListener('DOMContentLoaded', async () => {
+    const mermaidCodes = document.querySelectorAll('pre > code.language-mermaid');
+    if (mermaidCodes.length === 0) return;
+
+    mermaidCodes.forEach((codeEl) => {
+      const preEl = codeEl.parentElement;
+      const mermaidDiv = document.createElement('div');
+      mermaidDiv.className = 'mermaid';
+      mermaidDiv.textContent = codeEl.textContent;
+      preEl.replaceWith(mermaidDiv);
+    });
+
+    await mermaid.run();
+  });
+</script>
 <!-- end custom footer snippets -->

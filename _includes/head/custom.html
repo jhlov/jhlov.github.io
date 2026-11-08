@@ -22,4 +22,16 @@
 <meta name="msapplication-TileImage" content="/assets/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+<!-- MathJax for LaTeX mathematical expressions -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 <!-- end custom head snippets -->
